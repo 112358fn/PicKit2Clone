@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="6.5.0">
+<eagle version="7.4.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -17938,20 +17938,20 @@ Marquardt, RAFI, ITT, and others&lt;p&gt;
 <part name="IC1" library="microchip" deviceset="PIC18F2*_28" device="DIP" technology="550"/>
 <part name="L1" library="rcl" deviceset="L-EU" device="0204/5" value="680uHy"/>
 <part name="D1" library="diode" deviceset="1N4148" device="DO35-7"/>
-<part name="R1" library="resistor" deviceset="R-EU_" device="0204/7" value="1K"/>
+<part name="R1" library="resistor" deviceset="R-EU_" device="0207/10" value="1K"/>
 <part name="R2" library="resistor" deviceset="R-EU_" device="0204/5" value="4K7"/>
-<part name="R3" library="resistor" deviceset="R-EU_" device="0204/7" value="2K7"/>
+<part name="R3" library="resistor" deviceset="R-EU_" device="0204/5" value="2K7"/>
 <part name="R4" library="resistor" deviceset="R-EU_" device="0204/5" value="100K"/>
 <part name="Q1" library="transistor-npn" deviceset="BC548*" device=""/>
 <part name="GND1" library="supply1" deviceset="GND" device=""/>
-<part name="R5" library="resistor" deviceset="R-EU_" device="0204/7" value="10K"/>
+<part name="R5" library="resistor" deviceset="R-EU_" device="0204/5" value="10K"/>
 <part name="GND2" library="supply1" deviceset="GND" device=""/>
 <part name="GND4" library="supply1" deviceset="GND" device=""/>
 <part name="C1" library="rcl" deviceset="CPOL-EU" device="E1.8-4" value="47uF/16V"/>
 <part name="Q4" library="transistor-pnp" deviceset="BC558*" device="" technology="A"/>
 <part name="Q2" library="transistor-npn" deviceset="BC548*" device=""/>
 <part name="R6" library="resistor" deviceset="R-EU_" device="0204/7" value="10K"/>
-<part name="R7" library="resistor" deviceset="R-EU_" device="0204/7" value="10K"/>
+<part name="R7" library="resistor" deviceset="R-EU_" device="0204/5" value="10K"/>
 <part name="R8" library="resistor" deviceset="R-EU_" device="0204/5" value="10K"/>
 <part name="GND3" library="supply1" deviceset="GND" device=""/>
 <part name="Q3" library="transistor-npn" deviceset="BC548*" device=""/>
@@ -17967,26 +17967,26 @@ Marquardt, RAFI, ITT, and others&lt;p&gt;
 <part name="D2" library="diode" deviceset="1N4728" device=""/>
 <part name="GND9" library="supply1" deviceset="GND" device=""/>
 <part name="D4" library="diode" deviceset="1N581*" device="" technology="7-T"/>
-<part name="R11" library="resistor" deviceset="R-EU_" device="0204/7" value="10K"/>
+<part name="R11" library="resistor" deviceset="R-EU_" device="0204/5" value="10K"/>
 <part name="ISCP" library="con-3m" deviceset="2510-" device=""/>
-<part name="R12" library="resistor" deviceset="R-EU_" device="0204/7" value="33"/>
-<part name="R13" library="resistor" deviceset="R-EU_" device="0204/7" value="33"/>
+<part name="R12" library="resistor" deviceset="R-EU_" device="0204/5" value="33"/>
+<part name="R13" library="resistor" deviceset="R-EU_" device="0204/5" value="33"/>
 <part name="Q7" library="transistor-pnp" deviceset="BC558*" device="" technology="A"/>
 <part name="Q6" library="transistor-pnp" deviceset="BC558*" device="" technology="A"/>
-<part name="R14" library="resistor" deviceset="R-EU_" device="0204/7" value="33"/>
+<part name="R14" library="resistor" deviceset="R-EU_" device="0204/5" value="33"/>
 <part name="Q8" library="transistor-pnp" deviceset="BC558*" device="" technology="A"/>
-<part name="R15" library="resistor" deviceset="R-EU_" device="0204/7" value="4K7"/>
-<part name="R16" library="resistor" deviceset="R-EU_" device="0204/7" value="4K7"/>
-<part name="R17" library="resistor" deviceset="R-EU_" device="0204/7" value="10"/>
+<part name="R15" library="resistor" deviceset="R-EU_" device="0204/5" value="4K7"/>
+<part name="R16" library="resistor" deviceset="R-EU_" device="0204/5" value="4K7"/>
+<part name="R17" library="resistor" deviceset="R-EU_" device="0204/5" value="10"/>
 <part name="GND10" library="supply1" deviceset="GND" device=""/>
 <part name="GND11" library="supply1" deviceset="GND" device=""/>
 <part name="GND12" library="supply1" deviceset="GND" device=""/>
 <part name="GND13" library="supply1" deviceset="GND" device=""/>
 <part name="GND14" library="supply1" deviceset="GND" device=""/>
-<part name="R19" library="resistor" deviceset="R-EU_" device="0204/7" value="10"/>
-<part name="R18" library="resistor" deviceset="R-EU_" device="0204/7" value="10"/>
+<part name="R19" library="resistor" deviceset="R-EU_" device="0204/5" value="10"/>
+<part name="R18" library="resistor" deviceset="R-EU_" device="0204/5" value="10"/>
 <part name="D3" library="diode" deviceset="1N4148" device="DO35-7"/>
-<part name="R20" library="resistor" deviceset="R-EU_" device="0204/7" value="100K"/>
+<part name="R20" library="resistor" deviceset="R-EU_" device="0204/5" value="820"/>
 <part name="GND15" library="supply1" deviceset="GND" device=""/>
 <part name="JP1" library="pinhead" deviceset="PINHD-1X1" device=""/>
 <part name="SEL_VCC" library="pinhead" deviceset="PINHD-1X3" device=""/>
@@ -18000,10 +18000,10 @@ Marquardt, RAFI, ITT, and others&lt;p&gt;
 <part name="GND19" library="supply1" deviceset="GND" device=""/>
 <part name="GND20" library="supply1" deviceset="GND" device=""/>
 <part name="C6" library="rcl" deviceset="C-EU" device="025-024X044" value="100n"/>
-<part name="R22" library="resistor" deviceset="R-EU_" device="0204/7" value="330"/>
+<part name="R22" library="resistor" deviceset="R-EU_" device="0204/5" value="330"/>
 <part name="POWER" library="led" deviceset="LED" device="5MM"/>
 <part name="BUSSY" library="led" deviceset="LED" device="5MM"/>
-<part name="R23" library="resistor" deviceset="R-EU_" device="0204/7" value="330"/>
+<part name="R23" library="resistor" deviceset="R-EU_" device="0204/5" value="330"/>
 <part name="SW" library="switch-misc" deviceset="PVA1R" device=""/>
 <part name="GND21" library="supply1" deviceset="GND" device=""/>
 <part name="R21" library="resistor" deviceset="R-EU_" device="0204/5" value="10K"/>
@@ -18259,6 +18259,8 @@ Marquardt, RAFI, ITT, and others&lt;p&gt;
 <wire x1="83.82" y1="68.58" x2="86.36" y2="68.58" width="0.1524" layer="91"/>
 <wire x1="86.36" y1="68.58" x2="93.98" y2="68.58" width="0.1524" layer="91"/>
 <label x="91.44" y="68.58" size="1.778" layer="95"/>
+<junction x="86.36" y="68.58"/>
+<junction x="83.82" y="68.58"/>
 </segment>
 <segment>
 <pinref part="C4" gate="G$1" pin="2"/>
@@ -18297,6 +18299,11 @@ Marquardt, RAFI, ITT, and others&lt;p&gt;
 <wire x1="193.04" y1="147.32" x2="180.34" y2="147.32" width="0.1524" layer="91"/>
 <junction x="193.04" y="147.32"/>
 </segment>
+<segment>
+<pinref part="IC1" gate="G$1" pin="VSS@1"/>
+<wire x1="53.34" y1="114.3" x2="60.96" y2="114.3" width="0.1524" layer="91"/>
+<label x="55.88" y="114.3" size="1.778" layer="95"/>
+</segment>
 </net>
 <net name="OSC1" class="0">
 <segment>
@@ -18310,6 +18317,7 @@ Marquardt, RAFI, ITT, and others&lt;p&gt;
 <wire x1="7.62" y1="58.42" x2="7.62" y2="66.04" width="0.1524" layer="91"/>
 <wire x1="7.62" y1="66.04" x2="7.62" y2="73.66" width="0.1524" layer="91"/>
 <label x="7.62" y="73.66" size="1.778" layer="95" rot="R90"/>
+<junction x="7.62" y="66.04"/>
 </segment>
 </net>
 <net name="OSC2" class="0">
@@ -18324,6 +18332,7 @@ Marquardt, RAFI, ITT, and others&lt;p&gt;
 <wire x1="17.78" y1="58.42" x2="17.78" y2="66.04" width="0.1524" layer="91"/>
 <wire x1="17.78" y1="66.04" x2="17.78" y2="73.66" width="0.1524" layer="91"/>
 <label x="17.78" y="73.66" size="1.778" layer="95" rot="R90"/>
+<junction x="17.78" y="66.04"/>
 </segment>
 </net>
 <net name="LED_BUSSY" class="0">
@@ -18422,13 +18431,6 @@ Marquardt, RAFI, ITT, and others&lt;p&gt;
 <pinref part="R21" gate="G$1" pin="2"/>
 <wire x1="-35.56" y1="78.74" x2="-35.56" y2="86.36" width="0.1524" layer="91"/>
 <label x="-35.56" y="81.28" size="1.778" layer="95" rot="R90"/>
-</segment>
-</net>
-<net name="GNU" class="0">
-<segment>
-<pinref part="IC1" gate="G$1" pin="VSS@1"/>
-<wire x1="53.34" y1="114.3" x2="60.96" y2="114.3" width="0.1524" layer="91"/>
-<label x="55.88" y="114.3" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="D+" class="0">
@@ -18541,6 +18543,7 @@ Marquardt, RAFI, ITT, and others&lt;p&gt;
 <wire x1="172.72" y1="12.7" x2="172.72" y2="10.16" width="0.1524" layer="91"/>
 <wire x1="172.72" y1="12.7" x2="190.5" y2="12.7" width="0.1524" layer="91"/>
 <label x="177.8" y="12.7" size="1.778" layer="95"/>
+<junction x="172.72" y="12.7"/>
 </segment>
 <segment>
 <pinref part="ISCP" gate="-2" pin="KL"/>
@@ -18548,6 +18551,7 @@ Marquardt, RAFI, ITT, and others&lt;p&gt;
 <wire x1="193.04" y1="167.64" x2="193.04" y2="165.1" width="0.1524" layer="91"/>
 <wire x1="193.04" y1="165.1" x2="177.8" y2="165.1" width="0.1524" layer="91"/>
 <label x="175.26" y="165.1" size="1.778" layer="95"/>
+<junction x="193.04" y="165.1"/>
 </segment>
 </net>
 <net name="N$6" class="0">
@@ -18657,6 +18661,7 @@ Marquardt, RAFI, ITT, and others&lt;p&gt;
 <wire x1="190.5" y1="111.76" x2="190.5" y2="109.22" width="0.1524" layer="91"/>
 <wire x1="190.5" y1="109.22" x2="180.34" y2="109.22" width="0.1524" layer="91"/>
 <junction x="180.34" y="109.22"/>
+<junction x="190.5" y="109.22"/>
 </segment>
 </net>
 <net name="N$16" class="0">
@@ -18668,6 +18673,7 @@ Marquardt, RAFI, ITT, and others&lt;p&gt;
 <wire x1="193.04" y1="86.36" x2="193.04" y2="83.82" width="0.1524" layer="91"/>
 <wire x1="193.04" y1="83.82" x2="180.34" y2="83.82" width="0.1524" layer="91"/>
 <junction x="180.34" y="83.82"/>
+<junction x="193.04" y="83.82"/>
 </segment>
 </net>
 <net name="N$20" class="0">
